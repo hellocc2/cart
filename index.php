@@ -1,5 +1,5 @@
 <?php
-echo '<pre/>';print_r(phpinfo());
+//echo '<pre/>';print_r(phpinfo());
 // Version
 define('VERSION', '1.5.6.4');
 
